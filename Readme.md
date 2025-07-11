@@ -43,11 +43,11 @@ The app predicts a **"sleep-study score"** using the following inputs:
 
 ## 📁 Project Structure
 
-sleep-or-study/
-├── sleep_study_model.pkl # Trained regression model
-├── app.py # Streamlit web app
-├── sleep_or_study_regression.ipynb # Colab notebook with training steps
-└── README.md
+sleep-or-study/  
+├── sleep_study_model.pkl # Trained regression model   
+├── app.py # Streamlit web app   
+├── sleep_or_study_regression.ipynb # Colab notebook with training steps   
+└── README.md   
 
 
 ---
@@ -56,7 +56,7 @@ sleep-or-study/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/sleep-or-study.git
+git clone https://github.com/shriyanshi-gaur/Should_I_Sleep_or_Study-.git
 cd sleep-or-study
 
 2. Install Dependencies
